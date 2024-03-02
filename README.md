@@ -4,7 +4,7 @@
 
 Making ReadMe's is the most frustrating portion of any application. Auto Readme is a CLI driven Readme generator, that will take in user input to answer specific questions and generate the readme for you
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
