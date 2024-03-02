@@ -10,6 +10,7 @@ Making ReadMe's is the most frustrating portion of any application. Auto Readme 
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Video](#video)
 
 ## Installation
 
