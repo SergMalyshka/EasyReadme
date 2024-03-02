@@ -19,8 +19,8 @@ Making ReadMe's is the most frustrating portion of any application. Auto Readme 
 
 After the installation is complete, simply run `node index.js` and follow all the prompts until the end
 
-![starting the application](./Develop/assets/screenshot1.png)
-![answering the questions](./Develop/assets/screenshot2.png)
+![starting the application](./assets/images/screenshot1.png)
+![answering the questions](./assets/images/screenshot2.png)
 
 ## Credits
 
@@ -30,3 +30,6 @@ Done by Serg Malyshka
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 This project is ran under the standard MIT license
+
+## Video
+https://drive.google.com/file/d/1kehyC4-IG3-0ymKgJ1sUOLt5MJ2MWmvF/view
